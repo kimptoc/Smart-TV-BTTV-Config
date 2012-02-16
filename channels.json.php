@@ -8,15 +8,15 @@
    "channels" : [
       { 
           "title" : "Bagel Tech Mac", 
-          "icon_image"  : "http://localhost/scrap/bttv/bageltechmac-small.png", 
-          "rss_feed_url":"http://....", 
+          "icon_image"  : "http://www.bageltechnews.com/images/features/bageltechmac-small.png", 
+          "rss_feed_url":"http://feeds.feedburner.com/BagelTechMacVideo", 
           "description" : "All the Mac news",
           "enabled" : "true"
       },
       { 
           "title" : "Bagel Tech Foto", 
-          "icon_image"  : "http://localhost/scrap/bttv/bageltechfoto-small.png", 
-          "rss_feed_url":"http://....", 
+          "icon_image"  : "http://www.bageltechnews.com/images/features/bageltechfoto-small.png", 
+          "rss_feed_url":"http://feeds.feedburner.com/BagelTechFotoVideo", 
           "description" : "All the Foto news",
           "enabled" : "true"
       },
