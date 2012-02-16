@@ -1,3 +1,4 @@
+<?php header('Access-Control-Allow-Origin: *') ?>
 div[class="all_content"]
   div[class="header"]
     img[src=@overall_image class="overall_logo"]
