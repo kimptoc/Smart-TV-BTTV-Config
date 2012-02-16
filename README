@@ -1,0 +1,3 @@
+This is the app config, allowing the app to configured off the device.
+
+Its a PHP file so that we can set the Access-Control-Allow-Origin header item, allowing json to loaded from remote site
