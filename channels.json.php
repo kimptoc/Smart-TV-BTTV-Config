@@ -4,8 +4,8 @@
      "overall_title" : "Bagel Tech TV",
      "overall_description" : "Bagel Tech TV is...",
      "overall_image" : "http://www.bageltechnews.com/wp-content/themes/bageltechnews2011/images/BTNLogoText.png",
-     "content_url_root" : "http://localhost/scrap/bttv/",
-     "content_url_rootx" : "http://bttv.kimptoc.net/Smart-TV-BTTV-Config/"
+     "content_url_rootx" : "http://localhost/scrap/bttv/",
+     "content_url_root" : "http://bttv.kimptoc.net/Smart-TV-BTTV-Config/"
     },
    "channels" : [
       { 
