@@ -1,0 +1,33 @@
+.all_content
+{
+  width: 100%
+}
+
+.overall_logo
+{
+}
+
+.channel_logo
+{
+    float: left;
+}
+
+.header
+{
+  float: left;
+}
+
+.channels
+{
+  float:left;
+}
+
+.channel_item
+{
+  list-style-type: none;
+}
+
+.reset_floats
+{
+  clear: both;
+}
