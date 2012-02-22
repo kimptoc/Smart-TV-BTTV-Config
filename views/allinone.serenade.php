@@ -9,6 +9,6 @@ div[class="all_content"]
       - collection @channels
         li[class="reset_floats channel_item"]
           a[href="#"]
-            img[src=@icon_image class="channel_logo"]
+            img[src=@icon_image class="channel_logo" event:click=handleChannelClicked]
             b @title
             " : " @description
