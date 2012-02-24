@@ -2,7 +2,7 @@
 div
   a#anchor[href="javascript:void(0);" event:click="Main.keyDown"]
   div#main
-    div#logo "Bagel Tech Mac"
+    div#logo "Bagel Tech TV"
       div#rightHalf
           div#videoBox_top
           div#videoBox_left
