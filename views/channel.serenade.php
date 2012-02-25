@@ -1,6 +1,5 @@
 <?php header('Access-Control-Allow-Origin: *') ?>
 div
-  a#anchor[href="javascript:void(0);" event:click="Main.keyDown"]
   div#main
     div#logo "Bagel Tech TV"
       div#rightHalf

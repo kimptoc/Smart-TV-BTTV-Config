@@ -1,6 +1,5 @@
 <?php header('Access-Control-Allow-Origin: *') ?>
 div.all_content
-  a#anchor[href="javascript:void(0);" event:keydown="keyHandler"]
   div[class="header"]
     img[src=@overall_image class="overall_logo"]
     h2 @overall_title
