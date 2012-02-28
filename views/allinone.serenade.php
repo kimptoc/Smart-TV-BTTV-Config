@@ -8,7 +8,7 @@ div.all_content
     ul
       - collection @channels
         li[class="reset_floats channel_item"]
-          a[href="#" event:click="handleChannelClicked"]
+          a[id=@buid href="#" event:click="handleChannelClicked"]
             img[src=@icon_image class="channel_logo"]
             b @title
             " : " @description
