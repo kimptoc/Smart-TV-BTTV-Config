@@ -1,6 +1,6 @@
 <?php header('Access-Control-Allow-Origin: *') ?>
-div.all_content
-  div[class="header"]
+div#stationPage.all_content
+  div.header
     img[src=@overall_image class="overall_logo"]
     h2 @overall_title
     @overall_description
