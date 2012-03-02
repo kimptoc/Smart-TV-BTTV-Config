@@ -1,52 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51ee9ec1-850c-484c-a406-69e6bb5edc28" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BgLogo.PNG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/BgNavigator.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/control/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/control/kfwd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/control/kpause.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/control/kplay.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/control/krew.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/control/kstop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/descriptionBox/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/descriptionBox/description_bottom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/descriptionBox/description_top.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/icon/Tutorial_Video_106.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/icon/Tutorial_Video_115.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/icon/Tutorial_Video_85.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/icon/Tutorial_Video_95.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/listBox/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/listBox/listBox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/listBox/next.PNG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/listBox/previous.PNG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/listBox/selector.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/navi/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/navi/enter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/navi/forward.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/navi/pause.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/navi/play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/navi/return.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/navi/rewind.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/navi/stop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/videoBox/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/videoBox/bottom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/videoBox/left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/videoBox/mute.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/videoBox/muteBar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/videoBox/progressBar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/videoBox/progressBarBG.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/videoBox/right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/videoBox/rightHalf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/videoBox/top.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/videoBox/volume.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/videoBox/volumeBar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images/videoBox/volumeBarBG.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/Main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/bageltechmac_rss.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/allinone.serenade.php" afterPath="$PROJECT_DIR$/views/allinone.serenade.php" />
+    <list default="true" id="51ee9ec1-850c-484c-a406-69e6bb5edc28" name="Default" comment="add id for channel">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/channel.serenade.php" afterPath="$PROJECT_DIR$/views/channel.serenade.php" />
     </list>
     <ignored path="bttv.iws" />
@@ -81,7 +37,7 @@
       <file leaf-file-name="channels.json.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/channels.json.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="44" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0">
+            <state line="1" column="42" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -90,7 +46,7 @@
       <file leaf-file-name="channel.serenade.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/channel.serenade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="26" selection-start="911" selection-end="911" vertical-scroll-proportion="0.43589744">
+            <state line="52" column="0" selection-start="1470" selection-end="1470" vertical-scroll-proportion="2.5475504">
               <folding />
             </state>
           </provider>
@@ -99,7 +55,7 @@
       <file leaf-file-name="Main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/Main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="385" column="21" selection-start="6385" selection-end="6405" vertical-scroll-proportion="-6.76">
+            <state line="138" column="1" selection-start="2313" selection-end="2313" vertical-scroll-proportion="-4.28">
               <folding />
             </state>
           </provider>
@@ -393,14 +349,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295082" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295082" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39016393" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25872535" sideWeight="0.6704918" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25872535" sideWeight="0.60983604" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -409,7 +366,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39016393" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -473,16 +429,9 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/channels.json.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="44" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/Main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="385" column="21" selection-start="6385" selection-end="6405" vertical-scroll-proportion="-6.76">
+        <state line="138" column="1" selection-start="2313" selection-end="2313" vertical-scroll-proportion="-4.28">
           <folding />
         </state>
       </provider>
@@ -494,9 +443,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/channels.json.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="42" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/views/channel.serenade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="26" selection-start="911" selection-end="911" vertical-scroll-proportion="0.43589744">
+        <state line="52" column="0" selection-start="1470" selection-end="1470" vertical-scroll-proportion="2.5475504">
           <folding />
         </state>
       </provider>
