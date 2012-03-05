@@ -1,3 +1,4 @@
+<?php header('Access-Control-Allow-Origin: *') ?>
 <?xml version="1.0" encoding="UTF-8"?>
 
 <?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
@@ -359,7 +360,7 @@ Show Notes:- (http://wiki.bageltechnews.com/index.php?title=Mac_show_notes_20_Ja
 
 		<item>
 
-		<title>There’s a Guy Burned Down the Chip Shop Swears he’s Elvis</title>
+		<title>Thereï¿½s a Guy Burned Down the Chip Shop Swears heï¿½s Elvis</title>
 
 		<link>http://www.bageltechnews.com/?p=3738</link>
 
@@ -644,7 +645,7 @@ Show Notes:  (http://wiki.bageltechnews.com/index.php?title=Mac_show_notes_9_Dec
 
 		<item>
 
-		<title>Don McAllister’s Jet</title>
+		<title>Don McAllisterï¿½s Jet</title>
 
 		<link>http://www.bageltechnews.com/?p=3428</link>
 
@@ -862,7 +863,7 @@ BagelTechNews@gmail.com</itunes:summary>
 		<description><![CDATA[Paul Kent drops by to fill us in on the new developments for MacWorld iWorld and we also let him give his opinions on the weeks Mac News&#8230;Although there isn&#8217;t really anything [...]]]></description>
 
 			<content:encoded><![CDATA[<p>Paul Kent drops by to fill us in on the new developments for MacWorld iWorld and we also let him give his opinions on the weeks Mac News&#8230;Although there isn&#8217;t really anything much.</p>
-<p>Don McAllister, Kyle Swager, Paul Kent and Alex Fox join Ewen Rankin for the week’s Apple News</p>
+<p>Don McAllister, Kyle Swager, Paul Kent and Alex Fox join Ewen Rankin for the weekï¿½s Apple News</p>
 <p>http://www.BagelTechMac.com</p>
 ]]></content:encoded>
 
@@ -880,7 +881,7 @@ BagelTechNews@gmail.com</itunes:summary>
 
 
 
-Don McAllister, Kyle Swager, Paul Kent and Alex Fox join Ewen Rankin for the week’s Apple News
+Don McAllister, Kyle Swager, Paul Kent and Alex Fox join Ewen Rankin for the weekï¿½s Apple News
 
 
 
@@ -993,7 +994,7 @@ http://www.BagelTechMac.com</itunes:summary>
 		<description><![CDATA[There&#8217;s a distinct lack of Apple News this week, even the rumours. So, in the best traditions of the Bagel Tech Network, we decide to make it up instead! Kyle Swager, Dr [...]]]></description>
 
 			<content:encoded><![CDATA[<p>There&#8217;s a distinct lack of Apple News this week, even the rumours. So, in the best traditions of the Bagel Tech Network, we decide to make it up instead!</p>
-<p>Kyle Swager, Dr Happy Mac, Alex Fox and Chris Foresman join Ewen Rankin for the week’s Apple News</p>
+<p>Kyle Swager, Dr Happy Mac, Alex Fox and Chris Foresman join Ewen Rankin for the weekï¿½s Apple News</p>
 <p>http://www.BagelTechMac.com</p>
 ]]></content:encoded>
 
@@ -1005,13 +1006,13 @@ http://www.BagelTechMac.com</itunes:summary>
 
 		<itunes:keywords>Alex G Fox,Andrew Stephens,Andy Ihnatko,Apple,Apple TV,Cable,cupertino,Don McAllister,Dr Happy Mac,Ewen Rankin,Feck,Final Cut Pro X</itunes:keywords>
 
-		<itunes:subtitle>There's a distinct lack of Apple News this week, even the rumours. So, in the best traditions of the Bagel Tech Network, we decide to make it up instead! - Kyle Swager, Dr Happy Mac, Alex Fox and Chris Foresman join Ewen Rankin for the week’s Apple Ne...</itunes:subtitle>
+		<itunes:subtitle>There's a distinct lack of Apple News this week, even the rumours. So, in the best traditions of the Bagel Tech Network, we decide to make it up instead! - Kyle Swager, Dr Happy Mac, Alex Fox and Chris Foresman join Ewen Rankin for the weekï¿½s Apple Ne...</itunes:subtitle>
 
 		<itunes:summary>There's a distinct lack of Apple News this week, even the rumours. So, in the best traditions of the Bagel Tech Network, we decide to make it up instead!
 
 
 
-Kyle Swager, Dr Happy Mac, Alex Fox and Chris Foresman join Ewen Rankin for the week’s Apple News
+Kyle Swager, Dr Happy Mac, Alex Fox and Chris Foresman join Ewen Rankin for the weekï¿½s Apple News
 
 
 
@@ -1541,7 +1542,7 @@ BagelTechMac@gmail.com</itunes:summary>
 
 		<item>
 
-		<title>Steve Jobs – 1955 to 2011</title>
+		<title>Steve Jobs ï¿½ 1955 to 2011</title>
 
 		<link>http://www.bageltechnews.com/?p=3037</link>
 
@@ -1703,7 +1704,7 @@ BagelTechNews@gmail.com</itunes:summary>
 		<description><![CDATA[Will Green is back and home in the bosom of his true Mac Family, Don talks sense while the rest of us are off on one, Kyle sticks to the &#8216;TV Theory&#8217;, [...]]]></description>
 
 			<content:encoded><![CDATA[<p>Will Green is back and home in the bosom of his true Mac Family, Don talks sense while the rest of us are off on one, Kyle sticks to the &#8216;TV Theory&#8217;, Andrew takes us to bed and Ewen Struggles to keep the order.</p>
-<p>All the Mac Tech News with Don McAllister, Will Green, Dr Happy Mac, Kyle Swager &amp; Ewen Rankin and when there isn’t any we shoot the Mac Breeze</p>
+<p>All the Mac Tech News with Don McAllister, Will Green, Dr Happy Mac, Kyle Swager &amp; Ewen Rankin and when there isnï¿½t any we shoot the Mac Breeze</p>
 <p>http://www.BagelTechMac.com</p>
 <p>BagelTechMac@gmail.com</p>
 ]]></content:encoded>
@@ -1722,7 +1723,7 @@ BagelTechNews@gmail.com</itunes:summary>
 
 
 
-All the Mac Tech News with Don McAllister, Will Green, Dr Happy Mac, Kyle Swager &amp; Ewen Rankin and when there isn’t any we shoot the Mac Breeze
+All the Mac Tech News with Don McAllister, Will Green, Dr Happy Mac, Kyle Swager &amp; Ewen Rankin and when there isnï¿½t any we shoot the Mac Breeze
 
 
 
