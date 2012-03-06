@@ -38,16 +38,16 @@ div
         div#next
     div#navi
       div#help_navi
-        img[src="images/navi/play.png"]
-        img[src="images/navi/stop.png"]
-        img[src="images/navi/pause.png"]
-        img[src="images/navi/rewind.png"]
-        img[src="images/navi/forward.png"]
+        img[src="Images/navi/play.png"]
+        img[src="Images/navi/stop.png"]
+        img[src="Images/navi/pause.png"]
+        img[src="Images/navi/rewind.png"]
+        img[src="Images/navi/forward.png"]
         a.style_navi.wide_control_spacing
           "Video Control"
-        img[src="images/navi/enter.png"]
+        img[src="Images/navi/enter.png"]
         a.style_navi.wide_control_spacing
           "Full-screen/Window mode"
-        img[src="images/navi/return.png"]
+        img[src="Images/navi/return.png"]
         a.style_navi
           "Return"
