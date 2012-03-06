@@ -5,11 +5,13 @@
 
 .overall_logo
 {
+    float: left;
 }
 
 .channel_logo
 {
     float: left;
+    padding-right: 10px;
 }
 
 .header

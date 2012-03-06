@@ -2,13 +2,13 @@
 div#stationPage.all_content
   div.header
     img[src=@overall_image class="overall_logo"]
-    h2 @overall_title
-    @overall_description
+    b @overall_title
+    div @overall_description
   div[class="channels"]
-    ul
+    div
       - collection @channels
-        li[class="reset_floats channel_item"]
+        span[class="reset_floats channel_item"]
           a[id=@buid href="#" event:click="handleChannelClicked"]
             img[src=@icon_image class="channel_logo"]
-            b @title
-            " : " @description
+            b @titlex
+            @description

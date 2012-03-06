@@ -9,23 +9,58 @@
     },
    "channels" : [
       { 
-          "title" : "Bagel Tech Mac", 
+          "title" : "Bagel Tech Mac",
           "icon_image"  : "http://www.bageltechnews.com/images/features/bageltechmac-small.png", 
           "rss_feed_urly":"http://localhost/scrap/bttv/samples/bageltechmac_rss.xml.php",
           "rss_feed_urlx":"http://feeds.feedburner.com/BagelTechMacVideo",
           "rss_feed_name":"BagelTechMacVideo",
-          "description" : "All the Mac news",
+          "descriptionx" : "All the Mac news",
           "enabled" : "true"
       },
       { 
-          "title" : "Bagel Tech Foto", 
+          "title" : "Bagel Tech Foto",
           "icon_image"  : "http://www.bageltechnews.com/images/features/bageltechfoto-small.png", 
           "rss_feed_url":"http://feeds.feedburner.com/BagelTechFotoVideo",
           "rss_feed_name":"BagelTechFotoVideo",
-          "description" : "All the Foto news",
+          "descriptionx" : "All the Foto news",
           "enabled" : "true"
       },
-      { 
+      {
+          "title" : "Bagel Tech News",
+          "icon_image"  : "http://www.bageltechnews.com/images/features/bageltechnews-small.png",
+          "rss_feed_name":"bageltechnews/bqDm",
+          "descriptionx" : "All the News news",
+          "enabled" : "true"
+      },
+      {
+          "title" : "Bagel Tech Big",
+          "icon_image"  : "http://www.bageltechnews.com/images/features/bageltechbig-small.png",
+          "rss_feed_name":"bageltechnews/NBWE",
+          "descriptionx" : "All the Big news",
+          "enabled" : "true"
+      },
+      {
+          "title" : "Bagel Tech F1",
+          "icon_image"  : "http://www.bageltechnews.com/images/features/bageltechf1-small.png",
+          "rss_feed_name":"BagelTechF1",
+          "descriptionx" : "All the F1 news",
+          "enabled" : "true"
+      },
+      {
+          "title" : "Bagel Tech Nonsense",
+          "icon_image"  : "http://www.bageltechnews.com/images/features/bageltechnonsense-small.png",
+          "rss_feed_name":"BagelTechNonsense",
+          "descriptionx" : "All the Nonsense news",
+          "enabled" : "true"
+      },
+      {
+          "title" : "Bagel Tech Missy",
+          "icon_image"  : "http://www.bageltechnews.com/images/features/bageltechmissy-small.png",
+          "rss_feed_name":"bageltechnews/ZIlU",
+          "descriptionx" : "All the Nonsense news",
+          "enabled" : "true"
+      },
+      {
           "title" : "Bagel Tech Trek", 
           "icon_image"  : "http:\\......", 
           "rss_feed_url":"http:\\....", 
