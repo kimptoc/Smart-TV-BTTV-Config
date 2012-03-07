@@ -9,6 +9,6 @@ div#stationPage.all_content
       - collection @channels
         span[class="reset_floats channel_item"]
           a[id=@buid href="#" event:click="handleChannelClicked"]
-            img[src=@icon_image class="channel_logo"]
+            img[src=@icon_image class="channel_logo channel_logo_notselected"]
             b @titlex
             @description

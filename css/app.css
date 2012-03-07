@@ -11,7 +11,19 @@
 .channel_logo
 {
     float: left;
-    padding-right: 10px;
+    padding: 2px;
+    margin: 2px;
+    /*padding-right: 10px;*/
+}
+
+.channel_logo_selected
+{
+    border: yellow solid medium;
+}
+
+.channel_logo_notselected
+{
+    border: black solid medium;
 }
 
 .header
