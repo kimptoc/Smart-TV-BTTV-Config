@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51ee9ec1-850c-484c-a406-69e6bb5edc28" name="Default" comment="">
+    <list default="true" id="51ee9ec1-850c-484c-a406-69e6bb5edc28" name="Default" comment="allow channel highlighting">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/channels.json.php" afterPath="$PROJECT_DIR$/channels.json.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/app.css" afterPath="$PROJECT_DIR$/css/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/allinone.serenade.php" afterPath="$PROJECT_DIR$/views/allinone.serenade.php" />
     </list>
     <ignored path="bttv.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,10 +25,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="allinone.serenade.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="allinone.serenade.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/allinone.serenade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="76" selection-start="441" selection-end="441" vertical-scroll-proportion="0.31965813">
+            <state line="11" column="76" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -45,10 +43,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="channels.json.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="channels.json.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/channels.json.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="23" selection-start="356" selection-end="356" vertical-scroll-proportion="-2.36">
+            <state line="28" column="12" selection-start="1196" selection-end="1196" vertical-scroll-proportion="0.565812">
               <folding />
             </state>
           </provider>
@@ -66,7 +64,7 @@
       <file leaf-file-name="channel.serenade.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/channel.serenade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="23" selection-start="1430" selection-end="1430" vertical-scroll-proportion="-9.54">
+            <state line="35" column="25" selection-start="932" selection-end="941" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -75,7 +73,7 @@
       <file leaf-file-name="Main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/Main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="9" selection-start="121" selection-end="122" vertical-scroll-proportion="-5.12">
+            <state line="349" column="54" selection-start="5869" selection-end="5869" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -105,12 +103,12 @@
       <list>
         <option value="$PROJECT_DIR$/views/channel.serenade2.php" />
         <option value="$PROJECT_DIR$/samples/bageltechmac_rss.xml.php" />
-        <option value="$PROJECT_DIR$/css/Main.css" />
         <option value="$PROJECT_DIR$/feed.php" />
         <option value="$PROJECT_DIR$/views/channel.serenade.php" />
-        <option value="$PROJECT_DIR$/channels.json.php" />
         <option value="$PROJECT_DIR$/css/app.css" />
         <option value="$PROJECT_DIR$/views/allinone.serenade.php" />
+        <option value="$PROJECT_DIR$/css/Main.css" />
+        <option value="$PROJECT_DIR$/channels.json.php" />
       </list>
     </option>
   </component>
@@ -247,15 +245,15 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="155" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="828" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="830" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="828" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="154" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="152" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -402,19 +400,22 @@
       <created>1331072025205</created>
       <updated>1331072025205</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="allow channel highlighting">
+      <created>1331103069931</created>
+      <updated>1331103069931</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295082" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295082" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962063" sideWeight="0.62401265" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25417298" sideWeight="0.62401265" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -424,6 +425,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37598735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295082" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -464,7 +466,7 @@
     <option name="CREATE_PATCH_EXPAND_DETAILS_DEFAULT" value="true" />
     <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="include all channels" />
+    <option name="LAST_COMMIT_MESSAGE" value="allow channel highlighting" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -485,56 +487,49 @@
     <MESSAGE value="tweak layout - show title" />
     <MESSAGE value="encode feed name, a little security" />
     <MESSAGE value="include all channels" />
+    <MESSAGE value="allow channel highlighting" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/views/allinone.serenade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="76" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/samples/bageltechmac_rss.xml.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="50" selection-end="50" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="1" column="0" selection-start="50" selection-end="50" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/feed.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="86" selection-start="136" selection-end="136" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/Main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="9" selection-start="121" selection-end="122" vertical-scroll-proportion="-5.12">
-          <folding />
-        </state>
+        <state line="1" column="86" selection-start="136" selection-end="136" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/channel.serenade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="23" selection-start="1430" selection-end="1430" vertical-scroll-proportion="-9.54">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/channels.json.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="23" selection-start="356" selection-end="356" vertical-scroll-proportion="-2.36">
+        <state line="35" column="25" selection-start="932" selection-end="941" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="25" selection-start="230" selection-end="254" vertical-scroll-proportion="0.0">
+        <state line="23" column="25" selection-start="230" selection-end="254" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/Main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="349" column="54" selection-start="5869" selection-end="5869" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/allinone.serenade.php">
+    <entry file="file://$PROJECT_DIR$/channels.json.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="76" selection-start="441" selection-end="441" vertical-scroll-proportion="0.31965813">
+        <state line="28" column="12" selection-start="1196" selection-end="1196" vertical-scroll-proportion="0.565812">
           <folding />
         </state>
       </provider>

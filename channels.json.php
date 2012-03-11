@@ -11,8 +11,6 @@
       { 
           "title" : "Bagel Tech Mac",
           "icon_image"  : "http://www.bageltechnews.com/images/features/bageltechmac-small.png", 
-          "rss_feed_urly":"http://localhost/scrap/bttv/samples/bageltechmac_rss.xml.php",
-          "rss_feed_urlx":"http://feeds.feedburner.com/BagelTechMacVideo",
           "rss_feed_name":"BagelTechMacVideo",
           "descriptionx" : "All the Mac news",
           "enabled" : "true"
@@ -20,7 +18,6 @@
       { 
           "title" : "Bagel Tech Foto",
           "icon_image"  : "http://www.bageltechnews.com/images/features/bageltechfoto-small.png", 
-          "rss_feed_url":"http://feeds.feedburner.com/BagelTechFotoVideo",
           "rss_feed_name":"BagelTechFotoVideo",
           "descriptionx" : "All the Foto news",
           "enabled" : "true"
