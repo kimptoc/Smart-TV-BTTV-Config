@@ -4,8 +4,8 @@
      "overall_title" : "British Tech TV",
      "overall_description" : "This is the British Tech News Network (c) Consumer Tech News and Fun. Home of the British Tech News, British Tech Mac, British Tech Big and many more!",
      "overall_image" : "http://www.britishtechnetwork.com/wp-content/themes/britishtechnetwork2012/images/btnHeadLogo.png",
-     "content_url_root" : "http://localhost/scrap/bttv/",
-     "content_url_rootx" : "http://bttv.kimptoc.net/Smart-TV-BTTV-Config/"
+     "content_url_rootx" : "http://localhost/scrap/bttv/",
+     "content_url_root" : "http://bttv.kimptoc.net/Smart-TV-BTTV-Config/"
     },
    "channels" : [
       { 
